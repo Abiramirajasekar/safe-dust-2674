@@ -9,6 +9,7 @@ function Navbar() {
                 <h4>Solutions</h4>
                 <h4>Pricing</h4>
                 <h4>Learn</h4>
+                <h4>Contact</h4>
                 <button id='btn1'>Login</button>
                 <button id='btn2'>Start My Free Trail</button>
             </div >

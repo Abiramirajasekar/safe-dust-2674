@@ -37,6 +37,7 @@
 #btn2:hover {
     background-color: grey;
     border: solid 2px grey;
+    color: white;
 }
 
 #land1 {
@@ -78,8 +79,8 @@
 
 #btn3 {
     margin: 10px;
-    padding: 20px 35px 20px 35px;
-    font-weight: 600;
+    padding: 20px 30px 20px 30px;
+    font-weight: 500;
     font-size: 20px;
     border: solid 3px palevioletred;
     background-color: black;
@@ -89,8 +90,8 @@
 
 #btn4 {
     margin: 10px;
-    padding: 20px 35px 20px 35px;
-    font-weight: 600;
+    padding: 20px 50px 20px 50px;
+    font-weight: 500;
     font-size: 20px;
     border: solid 3px yellow;
     background-color: black;

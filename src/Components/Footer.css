@@ -1,0 +1,80 @@
+#FootText {
+    width: 100%;
+    /* height: 500px; */
+    border: 2px solid red;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.fc {
+    width: 30%;
+    border: 2px solid greenyellow;
+    /* line-height: 30%; */
+    text-align: left;
+
+}
+
+.fc>p {
+    font-weight: lighter;
+    font-size: 16px;
+    color: grey;
+}
+
+.h1 {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.icon {
+    width: 36px;
+}
+
+.iconn {
+    width: 30px;
+}
+
+.icon3 {
+    width: 37px;
+}
+
+.icon4 {
+    width: 37px;
+}
+
+.icon5 {
+    width: 33px;
+}
+
+#fclogo {
+    width: 100%;
+    border: 1px solid palevioletred;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#init {
+    width: 200px;
+}
+
+#initial {
+    margin-left: -1000px;
+}
+
+#fc1 {
+    width: 60%;
+    margin-left: -150px;
+}
+
+#fc2 {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+
+}
+
+#fc1>p {
+    padding-right: 50px;
+}
