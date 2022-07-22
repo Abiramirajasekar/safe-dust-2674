@@ -2,7 +2,7 @@ import React from 'react'
 import './Footer.css'
 function Footer() {
     return (
-        <div>
+        <div id='new'>
             <div id='initial'>
                 <img id="init"src="https://unbounce.com/wp-content/themes/unbounce2019/assets/img/unbounce-footer-icon-dark.svg" alt="logo" />
             </div>

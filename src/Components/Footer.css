@@ -1,5 +1,10 @@
-#FootText {
+#new {
     width: 100%;
+    border: 2px solid brown;
+}
+
+#FootText {
+    width: 90%;
     /* height: 500px; */
     border: 2px solid red;
     display: flex;
@@ -9,7 +14,7 @@
 
 .fc {
     width: 30%;
-    border: 2px solid greenyellow;
+    /* border: 2px solid greenyellow; */
     /* line-height: 30%; */
     text-align: left;
 
@@ -31,7 +36,7 @@
 }
 
 .iconn {
-    width: 30px;
+    width: 28px;
 }
 
 .icon3 {
@@ -39,7 +44,7 @@
 }
 
 .icon4 {
-    width: 37px;
+    width: 33px;
 }
 
 .icon5 {
@@ -47,7 +52,7 @@
 }
 
 #fclogo {
-    width: 100%;
+    width: 95%;
     border: 1px solid palevioletred;
     display: flex;
     justify-content: space-between;
@@ -63,15 +68,15 @@
 }
 
 #fc1 {
-    width: 60%;
-    margin-left: -150px;
+    width: 50%;
+    margin-left: 20px;
 }
 
 #fc2 {
-    width: 40%;
+    width: 50%;
     display: flex;
     justify-content: space-between;
-    margin-left: 20px;
+    margin-left: 30px;
 
 }
 
