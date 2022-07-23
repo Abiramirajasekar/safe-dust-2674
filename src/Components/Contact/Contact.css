@@ -1,0 +1,85 @@
+#H h1 {
+    font-weight: 400;
+    font-size: 50px;
+    /* margin-top: 50px; */
+}
+
+#H p {
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+}
+
+#Box {
+    display: flex;
+    width: 100%;
+}
+
+#D1,
+#D2,
+#D3,
+#D4 {
+    width: 20%;
+    line-height: 200%;
+    text-align: center;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 100PX;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+#D1 button {
+    padding: 20px 30px 20px 30px;
+    margin-top: 80px;
+    border: 2px solid blue;
+    color: blue;
+    font-weight: bold;
+
+}
+
+#D2 button {
+    padding: 20px 30px 20px 30px;
+    margin-top: 50px;
+    border: 2px solid blue;
+    color: blue;
+    font-weight: bold;
+
+}
+
+#D3 button {
+    padding: 20px 30px 20px 30px;
+    margin-top: 50px;
+    border: 2px solid blue;
+    color: blue;
+    font-weight: bold;
+}
+
+#D4 button {
+    padding: 20px 30px 20px 30px;
+    margin-top: 50px;
+    border: 2px solid blue;
+    color: blue;
+    font-weight: bold;
+
+}
+
+#D1 button:hover {
+    background-color: blue;
+    color: white;
+}
+
+#D2 button:hover {
+    background-color: blue;
+    color: white;
+}
+
+#D3 button:hover {
+    background-color: blue;
+    color: white;
+}
+
+#D4 button:hover {
+    background-color: blue;
+    color: white;
+}

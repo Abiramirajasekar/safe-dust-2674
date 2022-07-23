@@ -1,8 +1,11 @@
 import React from 'react'
+import Footer from '../Footer/Footer'
+import Navbar from '../Navbar/Navbar'
 import "./Home.css"
 function Home() {
     return (
         <div>
+            <Navbar />
             <div id='div'>
 
                 <div id='first'>
@@ -75,7 +78,7 @@ function Home() {
                 </div>
                 <div id='periya'>
                     <div id='vdo'>
-                        <h1>vdo</h1>
+                        <img src='https://unbounce.com/photos/conversion-opportunity-offer-scale.webp' alt='img' />
                     </div>
                     <div id="common">
                         <div className='i'>
@@ -112,7 +115,7 @@ function Home() {
                             <div  >
                                 <img id='Fo' src='https://unbounce.com/wp-content/webp-express/webp-images/doc-root/photos/Group-29210.png.webp' alt='logo' />
                             </div>
-                            <div id = 'TT'>
+                            <div id='TT'>
                                 <h3>Grow your marketing agency</h3>
                                 <p>Once you get clients, keep ’em. With customizable landing page templates and smart optimization features, you can launch high-converting campaigns at mad scale.</p>
                                 <h4 className='blue'>Wow Your Clients</h4>
@@ -122,7 +125,7 @@ function Home() {
 
                     <div id='poto'><img src="https://unbounce.com/wp-content/webp-express/webp-images/doc-root/photos/Group-29610-1.png.webp" alt="img" /></div>
                 </div>
-                <div>
+                <div id='heart'>
                     <img src="https://unbounce.com/wp-content/webp-express/webp-images/doc-root/photos/Vector-1.png.webp" alt="img" />
                     <h1>We’re with you all the way</h1>
                     <p>Don’t just grow—grow smarter. We’ve got an award-winning customer success team, an active community of
@@ -134,17 +137,24 @@ function Home() {
                 </div>
                 <div id='BB'>
                     <div>
-                        <h1>-</h1><h1>Start building pages
+                        <h2>-</h2>
+                        <h1>Start building pages
                             for free</h1>
                         <p>Build landing pages, popups, and sticky bars with your free 14-day trial. Cancel anytime.</p></div>
-                    <button>Start building pages</button>
-                    <div><h1>-</h1><h1>Start writing with AI
-                        —also free</h1>
-                        <p>Use AI to instantly generate copy for your marketing campaigns. No credit card required.</p></div>
-                    <button>Start writing with AI</button>
-                </div >
+                    <div>  <button>Start building pages</button></div>
+                    <div>
 
+                        <h2>-</h2>
+                        <h1>Start writing with AI
+                            — also free</h1>
+
+                        <p>Use AI to instantly generate copy for your marketing campaigns. No credit card required.</p></div>
+
+                    <div>
+                        <button>Start writing with AI</button></div>
+                </div >
             </div>
+            <Footer />
         </div>
     )
 }

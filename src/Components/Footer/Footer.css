@@ -1,12 +1,12 @@
 #new {
     width: 100%;
-    border: 2px solid brown;
+    /* border: 2px solid brown; */
 }
 
 #FootText {
     width: 90%;
     /* height: 500px; */
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     margin-left: 50px;
     margin-right: 50px;
@@ -53,7 +53,7 @@
 
 #fclogo {
     width: 95%;
-    border: 1px solid palevioletred;
+    /* border: 1px solid palevioletred; */
     display: flex;
     justify-content: space-between;
 

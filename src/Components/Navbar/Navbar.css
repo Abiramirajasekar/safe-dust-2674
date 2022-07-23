@@ -70,7 +70,7 @@
 
 }
 
-#para {
+#para1 {
     font-weight: 400;
     font-size: 25px;
     text-align: left;
@@ -111,4 +111,9 @@
 #banner {
     width: 100%;
     height: auto;
+}
+
+#a {
+    color: white;
+    text-decoration: none;
 }

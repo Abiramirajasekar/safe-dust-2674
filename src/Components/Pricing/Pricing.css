@@ -1,0 +1,19 @@
+#head {
+    font-weight: 400;
+    font-size: 50px;
+}
+
+#cas {
+    font-weight: 400;
+    font-size: 50px;
+}
+
+#sub {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+#ex {
+    width: 95%;
+}
